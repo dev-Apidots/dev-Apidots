@@ -13,7 +13,7 @@
 ## 💼 About Us
 
 **API DOTS Private Limited** is a technology company building **enterprise-grade API ecosystems** and **intelligent digital platforms**.  
-We work across industries — from **aviation analytics** and **blockchain security** to **smart contracts** and **AI-driven automation** — delivering innovation that scales.
+We work across industries — from **aviation analytics** and **blockchain security** to **fintech automation** and **AI-driven optimization** — delivering innovation that scales globally.
 
 > 🌍 Headquartered in India • Operating Globally  
 > ⚙️ Specialized in API Integration, Cloud Platforms, AI/ML, and Data Analytics  
@@ -49,24 +49,38 @@ We work across industries — from **aviation analytics** and **blockchain secur
 
 ## 🧩 Flagship Projects
 
-### 🛰️ **BacSWN** — Airspace Carbon Intelligence  
-A satellite-powered **carbon emission analytics system** that tracks and visualizes flight-based emissions globally.  
-💠 *Impact:* Enabling governments & airlines to achieve carbon-neutral aviation goals.  
-🧩 *Tech:* Python, Django, PostgreSQL, TensorFlow, Geo APIs.
+### 🛰️ **AeroMatrix** — Airspace Intelligence Platform  
+A cloud-powered system that monitors and analyzes **carbon emissions & flight activities** using **satellite and aviation data**.  
+💠 *Impact:* Helping aviation stakeholders move toward sustainability goals.  
+🧩 *Tech:* Python, Django, TensorFlow, PostgreSQL, Satellite APIs.
 
 ---
 
-### ✍️ **WeSignature** — Smart E-Signature Platform  
-A secure, blockchain-backed **digital document signing** system that ensures full traceability and authentication for global contracts.  
-💠 *Impact:* Empowering enterprises to sign, store, and verify legally binding documents instantly.  
-🧩 *Tech:* React, Node.js, AWS, Solidity, MongoDB.
+### ✍️ **SignVault** — Secure Digital Signature Suite  
+A **blockchain-backed e-signature system** providing end-to-end document verification, version tracking, and authentication.  
+💠 *Impact:* Enabling enterprises to digitize contracts securely across borders.  
+🧩 *Tech:* React, Node.js, Solidity, MongoDB, AWS.
 
 ---
 
-### 🏙️ **Trioak** — Real Estate Intelligence Suite  
-An intelligent platform to manage **properties, brokers, and commissions** — powered by data dashboards and smart automation.  
-💠 *Impact:* Simplifying operations for property developers and agencies.  
+### 🏙️ **PropEdge** — Real Estate Automation Engine  
+An intelligent real estate platform designed for **property management, brokerage tracking, and sales automation**.  
+💠 *Impact:* Simplifies complex workflows for real estate companies and agents.  
 🧩 *Tech:* Next.js, NestJS, Firebase, MySQL.
+
+---
+
+### 💳 **FinCore** — Financial Intelligence Platform  
+An integrated **fintech and data processing system** for **real-time transactions, analytics, and fraud detection**.  
+💠 *Impact:* Enhancing financial transparency through AI-driven analytics.  
+🧩 *Tech:* FastAPI, React, PostgreSQL, AWS Lambda, Machine Learning.
+
+---
+
+### 🌐 **IoT Nexus** — Smart Infrastructure Monitoring  
+A scalable **IoT-based analytics platform** that collects, processes, and visualizes live sensor data from multiple sources.  
+💠 *Impact:* Enables predictive maintenance and energy optimization for industries.  
+🧩 *Tech:* Node.js, MQTT, Python, Grafana, InfluxDB.
 
 ---
 
@@ -98,7 +112,7 @@ An intelligent platform to manage **properties, brokers, and commissions** — p
 |-----|--------------------------------------------------------------|
 | 🚀 | **Selected in Startup India Innovation Program 2025** |
 | 🔒 | **Awarded for “Secure Digital Infrastructure Solutions”** |
-| 🌱 | **Leading the Sustainable Tech Initiative for Green Aviation (BacSWN)** |
+| 🌱 | **Leading Sustainable Aviation Tech Initiative (AeroMatrix)** |
 
 </div>
 
@@ -139,7 +153,7 @@ An intelligent platform to manage **properties, brokers, and commissions** — p
 <p align="center">
   <a href="https://apidots.com/" target="_blank"><img src="https://img.shields.io/badge/🌍_Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://in.linkedin.com/company/apidotspvtltd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-API_DOTS_Pvt_Ltd-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:contact@apidots.com" target="_blank"><img src="https://img.shields.io/badge/Email-contact@apidots.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:apidots@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-apidots@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
